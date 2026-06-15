@@ -4,7 +4,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-KMeans-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## Deskripsi Singkat Proyek
+## Deskripsi Singkat Proyek RFM
 
 Proyek ini bertujuan untuk membantu perusahaan ritel online mengoptimalkan strategi pemasaran mereka dengan beralih dari pendekatan *mass marketing* ke **pemasaran terpersonalisasi**. 
 
