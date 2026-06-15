@@ -17,6 +17,14 @@ Dengan memanfaatkan data transaksi historis, kami menerapkan analisis **RFM (Rec
 * **Dimensionality Reduction:** Visualisasi persebaran cluster menggunakan **PCA (Principal Component Analysis)**.
 * **Business Insight:** Analisis karakteristik tiap segmen untuk rekomendasi strategi bisnis.
 
+## 👥 Anggota Kelompok
+
+| No | Nama |
+|----|------|
+| 1 | Wahyu Setiawan |
+| 2 | Ahmad Fadhoil |
+| 3 | Lingga Dwi Al Farizi |
+| 4 | M. Ahnaf Zaki |
 ---
 
 ## Petunjuk Setup Environment
