@@ -19,12 +19,12 @@ Dengan memanfaatkan data transaksi historis, kami menerapkan analisis **RFM (Rec
 
 ## 👥 Anggota Kelompok
 
-| No | Nama |
-|----|------|
-| 1 | Wahyu Setiawan |
-| 2 | Ahmad Fadhoil |
-| 3 | Lingga Dwi Al Farizi |
-| 4 | M. Ahnaf Zaki |
+| No | Nama | NPM |
+|----|------|--------|
+| 1 | Wahyu Setiawan | 23082010 |
+| 2 | Ahmad Fadhoil | 23082010144 |
+| 3 | Lingga Dwi Al Farizi | 23082010 |
+| 4 | M. Ahnaf Zaki | 23082010 |
 ---
 
 ## Petunjuk Setup Environment
